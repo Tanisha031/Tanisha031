@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Tanisha031
+- 👀 I’m interested in healthcare analytics and data science.
+- 🌱 I’m currently learning Excel, Python for Data Science, SQL, and Tableau.
+- 💞️ I’m looking to collaborate on healthcare data analysis and AI projects.
+- 📫 How to reach me: tanishakumari274@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I'm a Biomedical Engineer who loves blending technology and healthcare!
