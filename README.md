@@ -1,3 +1,4 @@
+![logo](https://www.seguetech.com/wp-content/uploads/2022/09/segue-blog-TheLifeofaSystemsAnalyst-MAIN.png)
 <h1 align="center">Hi 👋, I'm Tanisha kumari</h1>
 <h3 align="center">A passionate Data Analyst from Pakistan.</h3>
 
