@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on **Hosiptal Management project**
 
-- 🌱 I’m currently learning **Django, BI, Storytelling**
+- 🌱 I’m currently learning **BI, Storytelling**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tanisha031/Tanisha031](https://github.com/Tanisha031/Tanisha031)
 
-- 💬 Ask me about **Excel, SSMS, Power BI, Python, C++, SQL**
+- 💬 Ask me about **Excel, Google Sheets, Power BI, Tableau, Python, Matlab, SQL**
 
 - 📫 How to reach me **tanishakumari274@gmail.com**
 
