@@ -1,35 +1,164 @@
 ![logo](https://www.seguetech.com/wp-content/uploads/2022/09/segue-blog-TheLifeofaSystemsAnalyst-MAIN.png)
 <h1 align="center">Hi 👋, I'm Tanisha kumari</h1>
-<h3 align="center">A passionate Data Analyst from Pakistan.</h3>
+<h3 align="center">A passionate MIS & Data Analytics Enthusiast from Pakistan.</h3>
 
 <img align ="right" alt="Data analyst" width="400" src="https://cdn.dribbble.com/users/8619169/screenshots/16116886/media/a63d64bcccad878cb9dfdb9a9f6b6416.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanisha031&label=Profile%20views&color=0e75b6&style=flat" alt="tanisha031" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanisha031" alt="tanisha031" /></a> </p>
 
-- 🔭 I’m currently working on **Hosiptal Management project**
+## 🎯 Current Focus & Aspirations
 
-- 🌱 I’m currently learning **BI, Storytelling**
+- 🔭 Working on: **Sales data analysis and dashboard projects** <!-- TODO: Add your current main project -->
+- 🌱 Learning: **SAP SAC, BI, Storytelling and Dashboard development** <!-- TODO: Add what you're currently learning -->
+- 💬 Ask me about: **Microsoft Excel,  SQL Queries, Data Cleaning & EDA, MIS Reporting and Tableau dashboards** <!-- TODO: Add your areas of expertise -->
+- ⚡ Fun fact: **I enjoy turning raw data into meaningful insights.
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/Tanisha031/Tanisha031](https://github.com/Tanisha031/Tanisha031)
+## 🛠️ My Data Analytics & Engineering Toolkit
 
-- 💬 Ask me about **Excel, Google Sheets, Power BI, Tableau, Python, Matlab, SQL**
+### 💻 Programming Languages
 
-- 📫 How to reach me **tanishakumari274@gmail.com**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-- ⚡ Fun fact **Data analysts spend about 80% of their time cleaning and preparing data before analysis.**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<!-- TODO: Add/remove languages based on your actual skills -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tanisha -kumari-84b840275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanisha -kumari-84b840275" height="30" width="40" /></a>
+### 📊 Data Analysis & Visualization
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<!-- TODO: Add your actual frameworks -->
+
+### ☁️ Cloud & Databases
+
+![SAP Analytics Cloud](https://img.shields.io/badge/SAP%20Analytics%20Cloud-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<!-- TODO: Add your cloud/devops tools -->
+
+### 📈 Tools & Other Skills
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<!-- TODO: Add any other relevant tools like scikit-learn, seaborn, matplotlib etc. -->
+
+---
+
+## 📊 GitHub Analytics Dashboard
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tanisha031&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanisha031&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+### 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tanisha031&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+### 📈 Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanisha031&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanisha031&show_icons=true&locale=en&layout=compact" alt="tanisha031" /></p>
+### 🔥 Streak Statistics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanisha031&theme=tokyonight&hide_border=true"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanisha031&show_icons=true&locale=en" alt="tanisha031" /></p>
+### 📅 Contribution Calendar
+<img src="https://ghchart.rshah.org/409ba5/Tanisha031" alt="Contribution Calendar" width="100%"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanisha031&" alt="tanisha031" /></p>
+### ⚡ Recent Activity
+<!--START_SECTION:activity-->
+<!-- TODO: Set up GitHub Actions to auto-update this section with your latest activities -->
+- 🎉 Merged pull request [#1](https://github.com/Tanisha031/data-analytics-portfolio/pull/1) in [ Tanisha031/MIS-Reporting-Analytics](https://github.com/Tanisha031/data-analytics-portfolio)
+- 💪 Opened PR [#1](https://github.com/Tanisha031/data-analytics-portfolio/pull/1) in [Tanisha031/data-analytics-portfolio](https://github.com/Tanisha031/data-analytics-portfolio)
+- 🗣️ Commented on [#1](https://github.com/Tanisha031/data-analytics-portfolio/issues/1) in [Tanisha031/data-analytics-portfolio](https://github.com/Tanisha031/data-analytics-portfolio)
+- 📝 Created `README.md` in [Tanisha031/data-analytics-portfolio](https://github.com/Tanisha031/data-analytics-portfolio)
+<!--END_SECTION:activity-->
+
+---
+
+## 🏗️ Notable Data Projects
+
+<div align="center">
+
+### 🌟 [Healthcare Readmission Prediction](https://github.com/Tanisha031/healthcare-readmission-prediction) <!-- TODO: Replace with actual project -->
+
+**Tech Stack:** Python • Pandas • Scikit-learn • Matplotlib
+*Developed a machine learning model to predict patient readmissions, aiming to improve hospital resource allocation and patient care outcomes.*
+
+---
+
+### 🔥 [Sales Performance Dashboard](https://github.com/Tanisha031/sales-dashboard-tableau) <!-- TODO: Replace with actual project -->
+
+**Tech Stack:** Tableau • SQL • Excel
+*Designed and implemented an interactive Tableau dashboard to visualize key sales metrics, identify trends, and provide insights for strategic business decisions.*
+
+---
+
+### ⚡ [Patient Data Cleaning & Analysis](https://github.com/Tanisha031/patient-data-cleaning) <!-- TODO: Replace with actual project -->
+
+**Tech Stack:** Python • Pandas • Jupyter Notebook
+*A comprehensive project demonstrating robust data cleaning, transformation, and exploratory data analysis on a synthetic patient dataset to ensure data quality and readiness for downstream modeling.*
+
+</div>
+
+---
+
+
+---
+
+## 🌐 Let's Connect & Collaborate
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/tanisha-maheshwari-84b840275) <!-- TODO: Add your LinkedIn -->
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]( https://github.com/Tanisha031) <!-- TODO: Add your portfolio -->
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanishakumari274@gmail.com ) <!-- TODO: Add your email -->
+
+
+</div>
+
+---
+
+## ☕ Support My Work
+
+If you found my projects helpful or learned something from my code, consider supporting my work:
+
+<div align="center">
+
+
+
+[![Sponsor](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Tanisha031) <!-- TODO: Replace YOUR_USERNAME with your GitHub username -->
+
+</div>
+
+<div align="center">
+  <sub>💡 <i>Every contribution, no matter how small, helps me maintain and improve my open source projects!</i></sub>
+</div>
+
+---
+
+<div align="center">
+  ### 🚀 "Data is the new oil. And I'm building the refineries."
+
+  <sub>⭐ Feel free to star any repositories you find interesting!</sub>
+</div>
+
+
+
